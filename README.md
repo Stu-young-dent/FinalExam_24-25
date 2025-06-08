@@ -9,6 +9,8 @@ gitGraph
   commit id: "形策-CC98"
   commit id: "知识点整理"
   commit id: "离散小测"
+  brnach GitWorkfllow
+  commit id: "添加branch流程"
 ```
 
 ## GitWorkFlow
